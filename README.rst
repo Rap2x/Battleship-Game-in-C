@@ -9,3 +9,9 @@ Future Updates
 **************
 
 The GUI for the program may not be added.
+
+**************
+Developers
+**************
+
+This program was develop by me, Kyle Jhon Nolan, and Frederick Jehan Daluro.
