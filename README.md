@@ -19,5 +19,8 @@ Compile and run the server and client. The server should be first to execute.
 
 `./client [IP address] [Port Number]`
 
+## Clone
+`git clone https://github.com/Rap2x/Battleship-Game-in-C.git`
+
 ## Compatibility
 This program was only tested in a Ubuntu OS and so does not guarantee compatibility in other OS.
